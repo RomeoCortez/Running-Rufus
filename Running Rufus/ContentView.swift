@@ -19,6 +19,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("hello world")
+            Text("hello world part 2")
 
             NavigationView {
                 List {
